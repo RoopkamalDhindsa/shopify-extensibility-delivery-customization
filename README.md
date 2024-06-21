@@ -140,7 +140,7 @@ npm run shopify app dev
 
 ## Step 4: Create the delivery customization with GraphiQL
 
-### 1. Install the Shopify [GraphiQL app][(https://shopify-graphiql-app.shopifycloud.com/login) on your store. If you've already installed GraphiQL, then you should do so again to select the necessary access scopes for delivery customizations.
+### 1. Install the Shopify [GraphiQL app](https://shopify-graphiql-app.shopifycloud.com/login) on your store. If you've already installed GraphiQL, then you should do so again to select the necessary access scopes for delivery customizations.
 
 ### 2. In the GraphiQL app, in the API Version field, select the 2023-07 version.
 
