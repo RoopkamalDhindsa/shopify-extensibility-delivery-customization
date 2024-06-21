@@ -42,6 +42,9 @@ npm audit fix --force
 npm run dev
 ```
 
+The above command will take you through steps to create an app in a partner account. Select a partner account and then provide the name of your app.
+Make sure you are logged in to your partner account to authenticate the app successfully.
+
 Press P to open the URL to your app. Once you click install, you can start development.
 
 
